@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "01_hello_world",
+    "02_variables",
+    "03_data_types",
+    "04_control_flow",
+    "05_functions",
+    "06_ownership",
+    "07_structs",
+    "08_enums",
+]
+resolver = "2"
